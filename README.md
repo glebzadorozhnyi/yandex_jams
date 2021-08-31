@@ -6,4 +6,4 @@ yandex_jam_rate_selenium saves current trafic jam rate using selenium if Moscow 
 
 yandex_maps checks how long will it take to get home and for a work
 
-i run all these scripts in amazon aws to collect the data that helps me find out the optimal time to go to work and home
+i run all these scripts in amazon aws to collect the data that helps me find out the optimal time to go to work and to home
